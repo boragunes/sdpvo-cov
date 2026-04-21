@@ -1,0 +1,2892 @@
+[
+ {
+  "dir": "default_s0.5__falcon_outdoor_day_fast_flight_1__run1",
+  "variant": "default_s0.5",
+  "seq": "falcon_outdoor_day_fast_flight_1",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__falcon_outdoor_day_fast_flight_1__run2",
+  "variant": "default_s0.5",
+  "seq": "falcon_outdoor_day_fast_flight_1",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__falcon_outdoor_day_fast_flight_1__run3",
+  "variant": "default_s0.5",
+  "seq": "falcon_outdoor_day_fast_flight_1",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__falcon_outdoor_day_fast_flight_1__run4",
+  "variant": "default_s0.5",
+  "seq": "falcon_outdoor_day_fast_flight_1",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__falcon_outdoor_day_fast_flight_1__run5",
+  "variant": "default_s0.5",
+  "seq": "falcon_outdoor_day_fast_flight_1",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__falcon_outdoor_day_penno_trees__run1",
+  "variant": "default_s0.5",
+  "seq": "falcon_outdoor_day_penno_trees",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__falcon_outdoor_day_penno_trees__run2",
+  "variant": "default_s0.5",
+  "seq": "falcon_outdoor_day_penno_trees",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__falcon_outdoor_day_penno_trees__run3",
+  "variant": "default_s0.5",
+  "seq": "falcon_outdoor_day_penno_trees",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__falcon_outdoor_day_penno_trees__run4",
+  "variant": "default_s0.5",
+  "seq": "falcon_outdoor_day_penno_trees",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__falcon_outdoor_day_penno_trees__run5",
+  "variant": "default_s0.5",
+  "seq": "falcon_outdoor_day_penno_trees",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_forest_hard__run1",
+  "variant": "default_s0.5",
+  "seq": "spot_forest_hard",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_forest_hard__run2",
+  "variant": "default_s0.5",
+  "seq": "spot_forest_hard",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_forest_hard__run3",
+  "variant": "default_s0.5",
+  "seq": "spot_forest_hard",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_forest_hard__run4",
+  "variant": "default_s0.5",
+  "seq": "spot_forest_hard",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_forest_hard__run5",
+  "variant": "default_s0.5",
+  "seq": "spot_forest_hard",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_forest_road_1__run1",
+  "variant": "default_s0.5",
+  "seq": "spot_forest_road_1",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_forest_road_1__run2",
+  "variant": "default_s0.5",
+  "seq": "spot_forest_road_1",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_forest_road_1__run3",
+  "variant": "default_s0.5",
+  "seq": "spot_forest_road_1",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_forest_road_1__run4",
+  "variant": "default_s0.5",
+  "seq": "spot_forest_road_1",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_forest_road_1__run5",
+  "variant": "default_s0.5",
+  "seq": "spot_forest_road_1",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_building_loop__run1",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_building_loop",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_building_loop__run2",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_building_loop",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_building_loop__run3",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_building_loop",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_building_loop__run4",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_building_loop",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_building_loop__run5",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_building_loop",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_obstacles__run1",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_obstacles",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_obstacles__run2",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_obstacles",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_obstacles__run3",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_obstacles",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_obstacles__run4",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_obstacles",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_obstacles__run5",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_obstacles",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_stairs__run1",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_stairs",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_stairs__run2",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_stairs",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_stairs__run3",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_stairs",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_stairs__run4",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_stairs",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_stairs__run5",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_stairs",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_stairwell__run1",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_stairwell",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_stairwell__run2",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_stairwell",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_stairwell__run3",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_stairwell",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_stairwell__run4",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_stairwell",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_indoor_stairwell__run5",
+  "variant": "default_s0.5",
+  "seq": "spot_indoor_stairwell",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_art_plaza_loop__run1",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_art_plaza_loop",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_art_plaza_loop__run2",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_art_plaza_loop",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_art_plaza_loop__run3",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_art_plaza_loop",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_art_plaza_loop__run4",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_art_plaza_loop",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_art_plaza_loop__run5",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_art_plaza_loop",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_penno_short_loop__run1",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_penno_short_loop",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_penno_short_loop__run2",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_penno_short_loop",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_penno_short_loop__run3",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_penno_short_loop",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_penno_short_loop__run4",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_penno_short_loop",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_penno_short_loop__run5",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_penno_short_loop",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_rocky_steps__run1",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_rocky_steps",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_rocky_steps__run2",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_rocky_steps",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_rocky_steps__run3",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_rocky_steps",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_rocky_steps__run4",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_rocky_steps",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_rocky_steps__run5",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_rocky_steps",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_skatepark_1__run1",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_skatepark_1",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_skatepark_1__run2",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_skatepark_1",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_skatepark_1__run3",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_skatepark_1",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_skatepark_1__run4",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_skatepark_1",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_skatepark_1__run5",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_skatepark_1",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_skatepark_2__run1",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_skatepark_2",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_skatepark_2__run2",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_skatepark_2",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_skatepark_2__run3",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_skatepark_2",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_skatepark_2__run4",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_skatepark_2",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_skatepark_2__run5",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_skatepark_2",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_srt_green_loop__run1",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_srt_green_loop",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_srt_green_loop__run2",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_srt_green_loop",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_srt_green_loop__run3",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_srt_green_loop",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_srt_green_loop__run4",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_srt_green_loop",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_srt_green_loop__run5",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_srt_green_loop",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_srt_under_bridge_1__run1",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_srt_under_bridge_1",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_srt_under_bridge_1__run2",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_srt_under_bridge_1",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_srt_under_bridge_1__run3",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_srt_under_bridge_1",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_srt_under_bridge_1__run4",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_srt_under_bridge_1",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_day_srt_under_bridge_1__run5",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_day_srt_under_bridge_1",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_night_penno_plaza_lights__run1",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_night_penno_plaza_lights",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_night_penno_plaza_lights__run2",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_night_penno_plaza_lights",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_night_penno_plaza_lights__run3",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_night_penno_plaza_lights",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_night_penno_plaza_lights__run4",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_night_penno_plaza_lights",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_night_penno_plaza_lights__run5",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_night_penno_plaza_lights",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_night_penno_short_loop__run1",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_night_penno_short_loop",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_night_penno_short_loop__run2",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_night_penno_short_loop",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_night_penno_short_loop__run3",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_night_penno_short_loop",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_night_penno_short_loop__run4",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_night_penno_short_loop",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "default_s0.5__spot_outdoor_night_penno_short_loop__run5",
+  "variant": "default_s0.5",
+  "seq": "spot_outdoor_night_penno_short_loop",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__falcon_outdoor_day_fast_flight_1__run1",
+  "variant": "superfast_s0.5",
+  "seq": "falcon_outdoor_day_fast_flight_1",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__falcon_outdoor_day_fast_flight_1__run2",
+  "variant": "superfast_s0.5",
+  "seq": "falcon_outdoor_day_fast_flight_1",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__falcon_outdoor_day_fast_flight_1__run3",
+  "variant": "superfast_s0.5",
+  "seq": "falcon_outdoor_day_fast_flight_1",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__falcon_outdoor_day_fast_flight_1__run4",
+  "variant": "superfast_s0.5",
+  "seq": "falcon_outdoor_day_fast_flight_1",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__falcon_outdoor_day_fast_flight_1__run5",
+  "variant": "superfast_s0.5",
+  "seq": "falcon_outdoor_day_fast_flight_1",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__falcon_outdoor_day_penno_trees__run1",
+  "variant": "superfast_s0.5",
+  "seq": "falcon_outdoor_day_penno_trees",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__falcon_outdoor_day_penno_trees__run2",
+  "variant": "superfast_s0.5",
+  "seq": "falcon_outdoor_day_penno_trees",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__falcon_outdoor_day_penno_trees__run3",
+  "variant": "superfast_s0.5",
+  "seq": "falcon_outdoor_day_penno_trees",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__falcon_outdoor_day_penno_trees__run4",
+  "variant": "superfast_s0.5",
+  "seq": "falcon_outdoor_day_penno_trees",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__falcon_outdoor_day_penno_trees__run5",
+  "variant": "superfast_s0.5",
+  "seq": "falcon_outdoor_day_penno_trees",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_forest_hard__run1",
+  "variant": "superfast_s0.5",
+  "seq": "spot_forest_hard",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_forest_hard__run2",
+  "variant": "superfast_s0.5",
+  "seq": "spot_forest_hard",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_forest_hard__run3",
+  "variant": "superfast_s0.5",
+  "seq": "spot_forest_hard",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_forest_hard__run4",
+  "variant": "superfast_s0.5",
+  "seq": "spot_forest_hard",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_forest_hard__run5",
+  "variant": "superfast_s0.5",
+  "seq": "spot_forest_hard",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_forest_road_1__run1",
+  "variant": "superfast_s0.5",
+  "seq": "spot_forest_road_1",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_forest_road_1__run2",
+  "variant": "superfast_s0.5",
+  "seq": "spot_forest_road_1",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_forest_road_1__run3",
+  "variant": "superfast_s0.5",
+  "seq": "spot_forest_road_1",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_forest_road_1__run4",
+  "variant": "superfast_s0.5",
+  "seq": "spot_forest_road_1",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_forest_road_1__run5",
+  "variant": "superfast_s0.5",
+  "seq": "spot_forest_road_1",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_building_loop__run1",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_building_loop",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_building_loop__run2",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_building_loop",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_building_loop__run3",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_building_loop",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_building_loop__run4",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_building_loop",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_building_loop__run5",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_building_loop",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_obstacles__run1",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_obstacles",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_obstacles__run2",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_obstacles",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_obstacles__run3",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_obstacles",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_obstacles__run4",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_obstacles",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_obstacles__run5",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_obstacles",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_stairs__run1",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_stairs",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_stairs__run2",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_stairs",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_stairs__run3",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_stairs",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_stairs__run4",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_stairs",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_stairs__run5",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_stairs",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_stairwell__run1",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_stairwell",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_stairwell__run2",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_stairwell",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_stairwell__run3",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_stairwell",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_stairwell__run4",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_stairwell",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_indoor_stairwell__run5",
+  "variant": "superfast_s0.5",
+  "seq": "spot_indoor_stairwell",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_art_plaza_loop__run1",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_art_plaza_loop",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_art_plaza_loop__run2",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_art_plaza_loop",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_art_plaza_loop__run3",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_art_plaza_loop",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_art_plaza_loop__run4",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_art_plaza_loop",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_art_plaza_loop__run5",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_art_plaza_loop",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_penno_short_loop__run1",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_penno_short_loop",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_penno_short_loop__run2",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_penno_short_loop",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_penno_short_loop__run3",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_penno_short_loop",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_penno_short_loop__run4",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_penno_short_loop",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_penno_short_loop__run5",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_penno_short_loop",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_rocky_steps__run1",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_rocky_steps",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_rocky_steps__run2",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_rocky_steps",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_rocky_steps__run3",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_rocky_steps",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_rocky_steps__run4",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_rocky_steps",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_rocky_steps__run5",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_rocky_steps",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_skatepark_1__run1",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_skatepark_1",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_skatepark_1__run2",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_skatepark_1",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_skatepark_1__run3",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_skatepark_1",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_skatepark_1__run4",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_skatepark_1",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_skatepark_1__run5",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_skatepark_1",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_skatepark_2__run1",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_skatepark_2",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_skatepark_2__run2",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_skatepark_2",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_skatepark_2__run3",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_skatepark_2",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_skatepark_2__run4",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_skatepark_2",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_skatepark_2__run5",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_skatepark_2",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_srt_green_loop__run1",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_srt_green_loop",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_srt_green_loop__run2",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_srt_green_loop",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_srt_green_loop__run3",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_srt_green_loop",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_srt_green_loop__run4",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_srt_green_loop",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_srt_green_loop__run5",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_srt_green_loop",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_srt_under_bridge_1__run1",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_srt_under_bridge_1",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_srt_under_bridge_1__run2",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_srt_under_bridge_1",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_srt_under_bridge_1__run3",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_srt_under_bridge_1",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_srt_under_bridge_1__run4",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_srt_under_bridge_1",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_day_srt_under_bridge_1__run5",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_day_srt_under_bridge_1",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_night_penno_plaza_lights__run1",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_night_penno_plaza_lights",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_night_penno_plaza_lights__run2",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_night_penno_plaza_lights",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_night_penno_plaza_lights__run3",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_night_penno_plaza_lights",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_night_penno_plaza_lights__run4",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_night_penno_plaza_lights",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_night_penno_plaza_lights__run5",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_night_penno_plaza_lights",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_night_penno_short_loop__run1",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_night_penno_short_loop",
+  "run": 1,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_night_penno_short_loop__run2",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_night_penno_short_loop",
+  "run": 2,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_night_penno_short_loop__run3",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_night_penno_short_loop",
+  "run": 3,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_night_penno_short_loop__run4",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_night_penno_short_loop",
+  "run": 4,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ },
+ {
+  "dir": "superfast_s0.5__spot_outdoor_night_penno_short_loop__run5",
+  "variant": "superfast_s0.5",
+  "seq": "spot_outdoor_night_penno_short_loop",
+  "run": 5,
+  "figures": [
+   "fig1_rpe_vs_confidence.pdf",
+   "fig2_mean_w_configs.pdf",
+   "fig3_trace_vs_rpe.pdf",
+   "fig4_nees.pdf",
+   "fig5_sigma_shape.pdf",
+   "fig6_smoothed_combined.pdf",
+   "fig7_per_axis.pdf",
+   "fig8_rpe_vs_cond.pdf",
+   "fig9_headline_cond_axes.pdf"
+  ]
+ }
+]

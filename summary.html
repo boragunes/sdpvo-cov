@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Summary report</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<nav><a href="index.html">Overview</a><a href="summary.html"><strong>Summary report</strong></a><a href="gallery.html">Per-run gallery</a></nav>
+<h1>Summary report</h1>
+<p class="meta">Generated from <code>summary_report.md</code> — see the repo
+for source data.</p>
+<div id="report">Loading…</div>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+fetch('summary/summary_report.md')
+  .then(r => r.text())
+  .then(t => { document.getElementById('report').innerHTML = marked.parse(t); })
+  .catch(e => { document.getElementById('report').textContent =
+                'Could not load summary_report.md: ' + e; });
+</script>
+
+</body>
+</html>

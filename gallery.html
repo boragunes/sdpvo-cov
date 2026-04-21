@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Per-run gallery</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<nav><a href="index.html">Overview</a><a href="summary.html">Summary report</a><a href="gallery.html"><strong>Per-run gallery</strong></a></nav>
+<h1>Per-run gallery</h1>
+<p class="meta">Pick a sequence, config, run, and figure to view.  Embedded
+viewer shows the PDF inline; the Download link opens the raw file.</p>
+<div class="controls">
+  <label>Sequence
+    <select id="sel-seq"></select>
+  </label>
+  <label>Config
+    <select id="sel-variant"></select>
+  </label>
+  <label>Run
+    <select id="sel-run"></select>
+  </label>
+  <label>Figure
+    <select id="sel-fig"></select>
+  </label>
+  <span id="meta" class="meta"></span>
+</div>
+<div class="fig-card">
+  <h3 id="cur-title">Select options…</h3>
+  <embed id="cur-pdf" src="" type="application/pdf">
+</div>
+<script>
+const FIG_LABELS = {"fig1_rpe_vs_confidence.pdf": "1. RPE vs 1/tr(\u03a3)", "fig2_mean_w_configs.pdf": "2. Mean W configs", "fig3_trace_vs_rpe.pdf": "3. Trace(\u03a3) vs RPE", "fig4_nees.pdf": "4. NEES calibration", "fig5_sigma_shape.pdf": "5. \u03a3 shape (det / \u03bbmax / cond)", "fig6_smoothed_combined.pdf": "6. Smoothed + fusion", "fig7_per_axis.pdf": "7. Per-axis |e| vs \u03c3 (scatter)", "fig8_rpe_vs_cond.pdf": "8. RPE vs cond(\u03a3_pos)", "fig9_headline_cond_axes.pdf": "9. Headline: RPE + cond + per-axis"};
+fetch('runs.json').then(r => r.json()).then(runs => {
+  const seqs = [...new Set(runs.map(r => r.seq))].sort();
+  const variants = [...new Set(runs.map(r => r.variant))].sort();
+  const selSeq  = document.getElementById('sel-seq');
+  const selVar  = document.getElementById('sel-variant');
+  const selRun  = document.getElementById('sel-run');
+  const selFig  = document.getElementById('sel-fig');
+
+  seqs.forEach(s => selSeq.add(new Option(s, s)));
+  variants.forEach(v => selVar.add(new Option(v, v)));
+
+  function refresh() {
+    const seq = selSeq.value, variant = selVar.value;
+    const pool = runs.filter(r => r.seq === seq && r.variant === variant);
+    selRun.innerHTML = '';
+    pool.map(r => r.run).sort((a,b)=>a-b).forEach(rr =>
+        selRun.add(new Option('run'+rr, rr)));
+    if (pool.length) update();
+  }
+  function update() {
+    const seq = selSeq.value, variant = selVar.value, run = +selRun.value;
+    const entry = runs.find(r => r.seq === seq && r.variant === variant && r.run === run);
+    if (!entry) return;
+    selFig.innerHTML = '';
+    entry.figures.forEach(f => selFig.add(new Option(FIG_LABELS[f] || f, f)));
+    show();
+  }
+  function show() {
+    const seq = selSeq.value, variant = selVar.value, run = +selRun.value;
+    const fig = selFig.value;
+    if (!fig) return;
+    const entry = runs.find(r => r.seq === seq && r.variant === variant && r.run === run);
+    const href = 'runs/' + entry.dir + '/' + fig;
+    document.getElementById('cur-pdf').src = href;
+    document.getElementById('cur-title').innerHTML =
+        (FIG_LABELS[fig] || fig) + ' — ' + variant + ' / ' + seq + ' / run' + run +
+        '  <a class="dl" href="' + href + '">download PDF</a>';
+    document.getElementById('meta').textContent =
+        entry.figures.length + ' figures for this run';
+  }
+  selSeq.onchange = refresh;
+  selVar.onchange = refresh;
+  selRun.onchange = update;
+  selFig.onchange = show;
+  refresh();
+});
+</script>
+
+</body>
+</html>

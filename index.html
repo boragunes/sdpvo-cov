@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>SDPVO cov analysis</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<nav><a href="index.html"><strong>Overview</strong></a><a href="summary.html">Summary report</a><a href="gallery.html">Per-run gallery</a></nav>
+<h1>SDPVO covariance &amp; weight analysis</h1>
+<p>Per-keyframe uncertainty diagnostics for stereo DPVO on the M3ED dataset.
+Each run combines (a) BA-Hessian marginal covariance <code>Σ_pos</code>,
+(b) factor-head patch weights <code>W</code>, and (c) Sim(3)-aligned GT to
+produce correlations of Σ/W features against relative pose error.</p>
+
+<div class="stat-grid">
+  <div class="stat"><div class="val">170</div><div class="lbl">runs</div></div>
+  <div class="stat"><div class="val">2</div><div class="lbl">configs</div></div>
+  <div class="stat"><div class="val">17</div><div class="lbl">sequences</div></div>
+  <div class="stat"><div class="val">3.3e+04×</div><div class="lbl">median Σ underestimation</div></div>
+  <div class="stat"><div class="val">4.8%</div><div class="lbl">sim3 scale dev (p95)</div></div>
+</div>
+
+<h2>TL;DR</h2>
+<ul>
+<li><strong>Σ shape is reliable; Σ magnitude is not.</strong> Mean NEES is several
+orders of magnitude above its 6-DOF target, yet Sim(3) alignment scale stays
+within a few percent of 1 — so Σ is <em>intrinsically</em> under-estimated,
+not distorted by post-hoc scaling.</li>
+<li><strong>Scale-invariant features lead:</strong> <code>fusion_max</code>,
+<code>fusion_combined_sum</code>, <code>cond_pos</code>, <code>max_eig_pos</code>
+all reach median |Spearman r| ≈ 0.31–0.34 vs RPE-trans.</li>
+<li><strong>Raw trace / confidence are weak</strong> (median |r| ≈ 0.22).
+Do not use them for per-keyframe gating.</li>
+<li><strong>Per-axis σ<sub>d</sub> correlates with |e<sub>d</sub>|</strong>
+for translation and y-rotation, enabling per-component EKF gating rules
+even when the trace summary is noisy.</li>
+<li><strong>Config difference is small</strong> (&lt;0.05 in median |r|
+between default and superfast across every top metric).</li>
+</ul>
+
+<h2>Summary figures</h2>
+<p>See <a href="summary.html">the full text report</a> for numeric tables and
+interpretation.  All figures embedded below; click the title link for a
+standalone PDF download.</p>
+
+<div class="fig-card">
+  <h3>Metric reliability (|Spearman r|) <a class="dl" href="summary/fig_reliability.pdf">download PDF</a></h3>
+  <embed src="summary/fig_reliability.pdf" type="application/pdf">
+</div><div class="fig-card">
+  <h3>Metric × sequence heatmap <a class="dl" href="summary/fig_metric_seq_heatmap.pdf">download PDF</a></h3>
+  <embed src="summary/fig_metric_seq_heatmap.pdf" type="application/pdf">
+</div><div class="fig-card">
+  <h3>Config comparison: default vs superfast <a class="dl" href="summary/fig_config_compare.pdf">download PDF</a></h3>
+  <embed src="summary/fig_config_compare.pdf" type="application/pdf">
+</div><div class="fig-card">
+  <h3>NEES calibration overview <a class="dl" href="summary/fig_nees_overview.pdf">download PDF</a></h3>
+  <embed src="summary/fig_nees_overview.pdf" type="application/pdf">
+</div><div class="fig-card">
+  <h3>NEES by sequence <a class="dl" href="summary/fig_nees_by_seq.pdf">download PDF</a></h3>
+  <embed src="summary/fig_nees_by_seq.pdf" type="application/pdf">
+</div><div class="fig-card">
+  <h3>NEES vs sim3 alignment scale <a class="dl" href="summary/fig_nees_vs_scale.pdf">download PDF</a></h3>
+  <embed src="summary/fig_nees_vs_scale.pdf" type="application/pdf">
+</div>
+
+<h2>Per-run browsing</h2>
+<p>Open the <a href="gallery.html">per-run gallery</a> to filter by sequence,
+config, run index, and figure type. Every one of the 9 per-run figures is
+available as a raw PDF.</p>
+
+</body>
+</html>
