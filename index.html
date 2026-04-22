@@ -17,8 +17,8 @@ produce correlations of Σ/W features against relative pose error.</p>
   <div class="stat"><div class="val">170</div><div class="lbl">runs</div></div>
   <div class="stat"><div class="val">2</div><div class="lbl">configs</div></div>
   <div class="stat"><div class="val">17</div><div class="lbl">sequences</div></div>
-  <div class="stat"><div class="val">3.3e+04×</div><div class="lbl">median Σ underestimation</div></div>
-  <div class="stat"><div class="val">4.8%</div><div class="lbl">sim3 scale dev (p95)</div></div>
+  <div class="stat"><div class="val">3.2e+04×</div><div class="lbl">median Σ underestimation</div></div>
+  <div class="stat"><div class="val">0.0%</div><div class="lbl">sim3 scale dev (p95)</div></div>
 </div>
 
 <h2>TL;DR</h2>
@@ -48,8 +48,23 @@ standalone PDF download.</p>
   <h3>Metric reliability (|Spearman r|) <a class="dl" href="summary/fig_reliability.pdf">download PDF</a></h3>
   <embed src="summary/fig_reliability.pdf" type="application/pdf">
 </div><div class="fig-card">
-  <h3>Metric × sequence heatmap <a class="dl" href="summary/fig_metric_seq_heatmap.pdf">download PDF</a></h3>
+  <h3>Top-6 metrics × sequences heatmap <a class="dl" href="summary/fig_reliability_heatmap_top.pdf">download PDF</a></h3>
+  <embed src="summary/fig_reliability_heatmap_top.pdf" type="application/pdf">
+</div><div class="fig-card">
+  <h3>Per-sequence |r| strip plot — top 4 metrics <a class="dl" href="summary/fig_per_metric_by_seq.pdf">download PDF</a></h3>
+  <embed src="summary/fig_per_metric_by_seq.pdf" type="application/pdf">
+</div><div class="fig-card">
+  <h3>Full metric × sequence heatmap <a class="dl" href="summary/fig_metric_seq_heatmap.pdf">download PDF</a></h3>
   <embed src="summary/fig_metric_seq_heatmap.pdf" type="application/pdf">
+</div><div class="fig-card">
+  <h3>cond_pos by scene regime <a class="dl" href="summary/fig_seq_category_cond_pos.pdf">download PDF</a></h3>
+  <embed src="summary/fig_seq_category_cond_pos.pdf" type="application/pdf">
+</div><div class="fig-card">
+  <h3>Paired per-run |r| (cond_pos): default → superfast <a class="dl" href="summary/fig_run_paired_cond_pos.pdf">download PDF</a></h3>
+  <embed src="summary/fig_run_paired_cond_pos.pdf" type="application/pdf">
+</div><div class="fig-card">
+  <h3>Why cond_pos |r| varies: dynamic-range scatter <a class="dl" href="summary/fig_discrepancy_cond_pos.pdf">download PDF</a></h3>
+  <embed src="summary/fig_discrepancy_cond_pos.pdf" type="application/pdf">
 </div><div class="fig-card">
   <h3>Config comparison: default vs superfast <a class="dl" href="summary/fig_config_compare.pdf">download PDF</a></h3>
   <embed src="summary/fig_config_compare.pdf" type="application/pdf">
